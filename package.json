@@ -1,5 +1,5 @@
 {
-  "name": "figma2react",
+  "name": "figma-to-react",
   "version": "1.0.0",
   "description": "Export Figma Design into React Components",
   "main": "bin/figma2react.js",
